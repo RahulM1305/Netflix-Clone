@@ -20,7 +20,7 @@ body{
 .main .box{
     height: 70vh;
     width: 100%;
-    opacity: 0.44;
+    opacity: 0.69;
     position: absolute;
     top: 0;
     background-color: black;
@@ -87,5 +87,5 @@ nav button{
 
 .separation{
     height: 7px;
-    background-color: rgb(59, 59, 59);
+    background-color: rgb(46, 44, 44);
 }
