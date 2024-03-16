@@ -65,20 +65,20 @@ nav button{
     text-align: center;
 
 }
-.hero> :nth-child(2){
+/* .hero> :nth-child(2){
     font-weight: bolder;
     font-size: 48px;
     text-align: center;
 
-}
+} */
 
-.hero> :nth-child(3){
+.hero> :nth-child(2){
     font-weight: 400;
     font-size: 24px;
     text-align: center;
 
 }
-.hero> :nth-child(4){
+.hero> :nth-child(3){
     font-weight: 400;
     font-size: 20px;
     text-align: center;
@@ -88,4 +88,31 @@ nav button{
 .separation{
     height: 7px;
     background-color: rgb(46, 44, 44);
+}
+
+.btn{
+    padding:3px 8px;
+    font-weight: bold;
+    background-color: white;
+}
+
+.btn-red{
+    background-color: red;
+    color: white;
+    padding:3px 24px;
+    font-size: 20px;
+    border-radius: 4px;
+
+
+}
+.main input{
+    padding:3px 24px;
+    font-size: 20px;
+    border-radius: 4px;
+    background-color: rgba(23,23,23,0.2);
+
+}
+.btn-red-sm{
+    background-color: red;
+    color: white;
 }
