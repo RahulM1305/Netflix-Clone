@@ -92,8 +92,12 @@ nav button{
 
 .btn{
     padding:3px 8px;
-    font-weight: bold;
-    background-color: white;
+    font-weight: 400;
+    color: white;
+    background-color: rgba(243, 243, 243, 0.342);
+    border-radius: 4px;
+    border: 1px solid white;
+    cursor: pointer;
 }
 
 .btn-red{
@@ -104,6 +108,10 @@ nav button{
     border-radius: 4px;
 
 
+}
+.btn-red-sm{
+    background-color: red;
+    color: white;
 }
 
 .hero-buttons{
@@ -122,7 +130,4 @@ nav button{
     border: 1px solid rgba(246, 238, 238, 0.5);
 
 }
-.btn-red-sm{
-    background-color: red;
-    color: white;
-}
+
