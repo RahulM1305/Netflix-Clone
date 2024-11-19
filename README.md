@@ -1,6 +1,4 @@
-Thanks for the clarification! Here's the revised README tailored for a **frontend-only** Netflix Clone project:
 
----
 
 # Netflix Clone
 
